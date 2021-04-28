@@ -1,0 +1,338 @@
+{
+  "id": "2519088",
+  "name": "jsw-admin",
+  "font_family": "jswork",
+  "css_prefix_text": "icon",
+  "description": "Commont admin icons.",
+  "glyphs": [
+    {
+      "icon_id": "21036626",
+      "name": "计算账单",
+      "font_class": "ziyuan88",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "21036627",
+      "name": "门店统计",
+      "font_class": "ziyuan89",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "21036628",
+      "name": "客源统计",
+      "font_class": "ziyuan91",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "21036629",
+      "name": "全部",
+      "font_class": "ziyuan94",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "21036630",
+      "name": "留言板",
+      "font_class": "ziyuan92",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "21036631",
+      "name": "渠道设置",
+      "font_class": "ziyuan95",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "21036632",
+      "name": "短信报表",
+      "font_class": "ziyuan93",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "21036633",
+      "name": "运营报表",
+      "font_class": "ziyuan97",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "21036634",
+      "name": "财务报表",
+      "font_class": "ziyuan96",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "21036635",
+      "name": "开发票",
+      "font_class": "ziyuan67",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "21036636",
+      "name": "简单易用",
+      "font_class": "ziyuan75",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "21036590",
+      "name": "自动分房",
+      "font_class": "ziyuan55",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "21036591",
+      "name": "自动入账",
+      "font_class": "ziyuan51",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "21036592",
+      "name": "订单打印",
+      "font_class": "ziyuan56",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "21036593",
+      "name": "自动离店",
+      "font_class": "ziyuan53",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "21036594",
+      "name": "房态风格",
+      "font_class": "ziyuan54",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "21036595",
+      "name": "会员",
+      "font_class": "ziyuan60",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "21036596",
+      "name": "门店及房型",
+      "font_class": "ziyuan62",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21036597",
+      "name": "微管家",
+      "font_class": "ziyuan57",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "21036598",
+      "name": "提效",
+      "font_class": "ziyuan59",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21036599",
+      "name": "资源 64",
+      "font_class": "ziyuan64",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "21036600",
+      "name": "开关房",
+      "font_class": "ziyuan58",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "21036601",
+      "name": "资源 65",
+      "font_class": "ziyuan65",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "21036602",
+      "name": "高转化",
+      "font_class": "ziyuan68",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21036603",
+      "name": "低成本",
+      "font_class": "ziyuan70",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "21036604",
+      "name": "资源 66",
+      "font_class": "ziyuan66",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "21036605",
+      "name": "订单管理",
+      "font_class": "ziyuan61",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "21036606",
+      "name": "资源 63",
+      "font_class": "ziyuan63",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "21036607",
+      "name": "多客户端",
+      "font_class": "ziyuan76",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21036608",
+      "name": "多OTA",
+      "font_class": "ziyuan72",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21036609",
+      "name": "POS机收款",
+      "font_class": "ziyuan52",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "21036610",
+      "name": "日志",
+      "font_class": "ziyuan79",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "21036611",
+      "name": "管理多OTA",
+      "font_class": "ziyuan73",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "21036612",
+      "name": "高流量",
+      "font_class": "ziyuan69",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "21036613",
+      "name": "轻松运营",
+      "font_class": "ziyuan74",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "21036614",
+      "name": "降本增效",
+      "font_class": "ziyuan71",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "21036615",
+      "name": "员工权限",
+      "font_class": "ziyuan80",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "21036616",
+      "name": "功能设置",
+      "font_class": "ziyuan82",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "21036617",
+      "name": "联系客服",
+      "font_class": "ziyuan77",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "21036618",
+      "name": "通知公告",
+      "font_class": "ziyuan78",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "21036619",
+      "name": "业主设置",
+      "font_class": "ziyuan87",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "21036620",
+      "name": "前台售卖",
+      "font_class": "ziyuan85",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "21036621",
+      "name": "钟点房设置",
+      "font_class": "ziyuan81",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "21036622",
+      "name": "住客",
+      "font_class": "ziyuan86",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "21036623",
+      "name": "商品管理",
+      "font_class": "ziyuan83",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "21036624",
+      "name": "其他报表",
+      "font_class": "ziyuan90",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "21036625",
+      "name": "订单管理",
+      "font_class": "ziyuan84",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}
