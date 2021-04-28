@@ -19,7 +19,13 @@
     "type": "git",
     "url": "git+https://github.com/afeiship/react-admin-icons.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "admin",
+    "icons",
+    "font",
+    "icon"
+  ],
   "author": "afei",
   "license": "MIT",
   "browserslist": {

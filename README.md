@@ -51,6 +51,8 @@ npm install -S @jswork/react-admin-icons
         <ReactDemokit
           className="p-3 app-container"
           url="https://github.com/afeiship/react-admin-icons">
+          <h1 className="title">Icon static method</h1>
+          {ReactAdminIcons.Icons('date', { size: 100 })}
           <h1 className="title">Icon list</h1>
           <div className="is-list">
             {glyphs.map((item) => {
