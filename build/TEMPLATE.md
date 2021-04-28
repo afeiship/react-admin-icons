@@ -28,7 +28,7 @@ __GENERATE_DOCS__
 
   ```html
   <!-- Add your font link style -->
-  <link rel="stylesheet" href="//at.alicdn.com/t/font_2519088_fgetfs92uf.css">
+  <link rel="stylesheet" href="//at.alicdn.com/t/font_2519088_q3uuta69ane.css">
   ```
 2. import js
   ```js
