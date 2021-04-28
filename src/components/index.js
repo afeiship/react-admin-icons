@@ -31,6 +31,13 @@ export default class ReactAdminIcons extends Component {
     size: 16
   };
 
+  static Icons(inValue, inProps) {
+    return React.createElement(this, {
+      ...inProps,
+      value: inValue
+    });
+  }
+
   get size() {
     const { size } = this.props;
     return { fontSize: size };
